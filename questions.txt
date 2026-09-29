@@ -1,0 +1,37 @@
+Logistics & Delivery Performance
+
+    What is the average actual delivery time for orders when the traffic level is 'High' versus 'Low'?
+
+    How many orders were flagged as late deliveries, and what was the most common weather condition for those delayed orders?
+
+    Which city has the highest percentage of late deliveries?
+
+    Is there a correlation between the delivery partner's experience in months and the actual delivery time?
+
+Financial & Revenue Analysis
+
+    hat is the total revenue generated from delivery fees across the entire dataset?
+
+    Do customers leave higher tip amounts on weekends compared to weekdays?
+
+    What is the average order total and subtotal for each customer type or tier?
+
+    Calculate the total discount amount given and compare it to the total service fees collected.
+
+Customer & Restaurant Insights
+
+    Which restaurant primary category receives the highest average customer rating?
+
+    What is the average age of customers placing orders for the top 3 most popular cuisines?
+
+    List the top 5 restaurants with the highest number of canceled orders.
+
+    Do higher restaurant ratings correlate with faster base preparation times?
+
+Complex Cross-Metric Queries
+
+    What are the top 3 delivery areas with the highest average order total during rainy weather?
+
+    How does the payment method vary by customer type, and which method has the highest average tip percentage?
+
+    Find the top 5 drivers (by ID) who have a perfect delivery partner rating and zero late deliveries, along with their total completed orders.
